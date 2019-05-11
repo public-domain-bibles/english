@@ -39,4 +39,5 @@ YLT				Young's Literal Translation		f2
 File formats
 
 f1 = one starting row for each book, with one book, chapter, versenbr reference on each row
+
 f2 = one starting row for each book, with one versenbr on each row  (but no book/chapter reference on the rows)
