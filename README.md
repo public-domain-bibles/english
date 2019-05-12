@@ -16,9 +16,13 @@ Abbreviation: Title (File format) Comment
 * OEBcw: Open English Bible (f1) Commonwealth spelling
 * RV:	Revised Version (f2)
 * Tanakh-1917: Tanakh in English (f1)
+* TRCVB: Tyndale, Rogers, Coverdale Bible with variants (f3)
 * WEB: World English Bible (f1)
+* WEY: Weymouth New Testament (f3)
+* WTNT: William Tyndale New Testament (f3)
 * YLT: Young's Literal Translation (f2)
 
 File formats
-* f1 = one starting row for each book, with one book, chapter, versenbr reference on each row
-* f2 = one starting row for each book, with one versenbr on each row  (but no book/chapter reference on the rows)
+* f1 = a starting row for each book, with one book, chapter, versenbr reference on each row
+* f2 = a starting row for each book, with one versenbr on each row  (but no book/chapter reference on the rows)
+* f3 = a starting row for each book chapter, with one versenbr on each row (suffix _f3 in the file names)
